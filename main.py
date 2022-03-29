@@ -1,7 +1,7 @@
 import os
 from flask import Flask, render_template, redirect, url_for, flash, abort, request
 from flask_bootstrap import Bootstrap
-import smtplib, ssl
+import smtplib
 
 from flask import Flask
 
